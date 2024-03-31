@@ -24,8 +24,6 @@ def random_predict(number: int = 1) -> int:
     return count
 
 
-ся
-
 if __name__ == "__main__":
     # RUN
     score_game(random_predict)
